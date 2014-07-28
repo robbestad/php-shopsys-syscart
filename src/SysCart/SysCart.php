@@ -2,7 +2,7 @@
 
 namespace SysCart;
 
-require __DIR__ . '/../../../../svenanders/sarmysql/src/SarMysql/SarMysql.php';
+require_once __DIR__ . '/../../../../svenanders/sarmysql/src/SarMysql/SarMysql.php';
 
 class SysCart
 {
